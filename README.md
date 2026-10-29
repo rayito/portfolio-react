@@ -21,4 +21,4 @@ A modern, responsive portfolio website built with React and Tailwind CSS. This i
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/portfolio.git](https://github.com/yourusername/portfolio.git)
+   git clone https://github.com/rayito/portfolio-react.git
